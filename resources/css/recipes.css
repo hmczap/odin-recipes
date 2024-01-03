@@ -1,0 +1,8 @@
+
+/* Additional styles for recipes */
+
+
+ul, ol {
+    font-size: smaller;
+    list-style: circle;
+}
